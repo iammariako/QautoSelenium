@@ -8,5 +8,10 @@ public class BasePage {
     //header
     public Header header = new Header();
 
-    //footer
+    //notification
+    public Notification notification = new Notification();
+
+    //sidemenu
+    public Sidemenu sidemenu = new Sidemenu();
+
 }
